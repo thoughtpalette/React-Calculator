@@ -1,0 +1,8 @@
+.operator-btn {
+    background: red;
+    color: #fff;
+}
+
+.operator-btn:hover {
+    background: darkred;
+}

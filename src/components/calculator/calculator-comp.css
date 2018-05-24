@@ -1,0 +1,9 @@
+.calculator {
+    width: 100%;
+    max-width: 300px;
+    margin: 10% auto 0; 
+    border: 1px solid red;
+    -webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.54);
+    -moz-box-shadow: 0 1px 5px rgba(0,0,0,0.54);
+    box-shadow: 0 1px 5px rgba(0,0,0,0.54);
+}
